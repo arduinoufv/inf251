@@ -19,6 +19,8 @@
 * [Memorias e Circuitos com memorias]()
 
 * [Logic Synthesis](https://colab.research.google.com/drive/1_10RNeTwpIVCTVwfqG5MILwkxVbNIERm?usp=sharing)
+* 
+* [Square Root and Array Multiplier](https://colab.research.google.com/drive/1bHVc9KPSA0M8mjhEsx0TCEAgC60ZiaY5?usp=sharing)
 
 * [Verilog](https://colab.research.google.com/drive/1LNO9La-odQPiupedU1rGZ5AptbDUQEo9?usp=sharing)
 
